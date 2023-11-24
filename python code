@@ -1,0 +1,23 @@
+import time
+
+
+from pyler import notification
+
+
+
+if __name__ == "__main__":
+    notification.notify(
+        title = "Please drink water",
+        message="Pani peele na bhaya please",
+        app_icon="C:\Users\hp\OneDrive\Documents\GitHub\python-project-college\icon\python project icon.png"
+        
+
+
+
+
+
+        
+
+
+    )
+    pass
